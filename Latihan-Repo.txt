@@ -1,0 +1,4 @@
+Latihan Repository 
+- Repository adalah sebuah folder dalam github yang dapat menampung file yang akan dibuat. Singkatnya repository / repo  adalah folder project.
+- Git adalah software yang dapat melakukan VCS ( Version Control System ). 
+- Github adalah sebuah website untuk mengelola layanan git.
