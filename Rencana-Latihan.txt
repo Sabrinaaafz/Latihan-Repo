@@ -1,5 +1,6 @@
 Rencana Latihan Bahasa Program 
 - Latihan JS 
 * Menggabung dengan HTML dan CSS
+* Membuat form yang dapat mengambil data 
 - Latihan Phyton
 - Latihan PHP
