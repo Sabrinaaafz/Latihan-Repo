@@ -1,4 +1,5 @@
 Rencana Latihan Bahasa Program 
 - Latihan JS 
+* Menggabung dengan HTML dan CSS
 - Latihan Phyton
 - Latihan PHP
